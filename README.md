@@ -33,7 +33,7 @@ This project answers three important questions about the data engineering job ma
 
 The analysis uses a data warehouse designed with a **Star Schema**, making it easy to perform analytical SQL queries.
 
-![data werehouse](content://com.android.chrome.FileProvider/images/screenshot/17854314930011771694415.png)
+![data werehouse](image/1_2_Project2_Data_Pipeline.png)
 
 ### Fact Table
 
