@@ -8,6 +8,7 @@ The following project are a collection of SQL project that i have worked on to p
 
 ### [1. EDA](/1_EDA) - Exploratory Data Analysis
 
-![project 1 overview](image\1_1_Project1_EDA.png)
+![project 1 overview](<img width="1032" height="1428" alt="1_1_Project1_EDA" src="https://github.com/user-attachments/assets/87f883ab-9c54-419d-9424-24e0bd88ff52" />
+)
 
 SQL_driven analysis of data engineer job market trends using advanced quering techniques.
