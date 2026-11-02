@@ -28,9 +28,11 @@ CREATE TABLE job_postings_fact (
     search_location VARCHAR,
     job_posted_date TIMESTAMP,
     job_no_degree_mention BOOLEAN,
+    job_country  VARCHAR,
     job_health_insurance BOOLEAN,
+    salary_rate          VARCHAR,
     salary_year_avg      DOUBLE,
-    salary_hour_ang      DOUBLE
+    salary_hour_avg      DOUBLE
 );
 
 CREATE TABLE skills_job_dim(
