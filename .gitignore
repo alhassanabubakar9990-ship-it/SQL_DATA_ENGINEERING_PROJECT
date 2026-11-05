@@ -30,3 +30,5 @@ target/
 .idea/
 .vscode/
 __pycache__/
+
+/2_DW_Mart_Build/07_create_company_mart.sql
