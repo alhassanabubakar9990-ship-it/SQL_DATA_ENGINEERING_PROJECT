@@ -12,7 +12,7 @@ The following project are a collection of SQL project that i have worked on to p
 
 SQL_driven analysis of data engineer job market trends using advanced quering techniques.
 
-2_WH_Mart_Build/ - Data Pipeline - Data Warehouse & Mart
+2_WH_Mart_Build/(2_DW_Mart_Build) - Data Pipeline - Data Warehouse & Mart
 Data Pipeline Architecture End-to-end ETL pipeline transforming raw CSV files into a star schema data warehouse and analytical data marts.
 
 Skills: Dimensional modeling, ETL pipeline development, data mart architecture, production practices
