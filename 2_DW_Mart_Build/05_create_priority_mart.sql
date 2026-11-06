@@ -9,7 +9,7 @@ CREATE TABLE priority_mart.priority_roles (
   role_id      INTEGER PRIMARY KEY,
   role_name    VARCHAR,
   priority_lvl INTEGER
-);
+);s
 
 INSERT INTO priority_mart.priority_roles (role_id, role_name, priority_lvl)   
 VALUES
