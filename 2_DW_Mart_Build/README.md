@@ -70,7 +70,7 @@ The pipeline transforms job posting CSVs from Google Cloud Storage into a normal
 
 The data warehouse implements a star schema with `company_dim`, `skills_dim`, `job_postings_fact`, and `skills_job_dim` tables.
 
-![Data Warehouse Schema](../image\1_2_Data_Warehouse.png)
+![Data Warehouse Schema](image/1_2_Data_Warehouse.png)
 
 - **SQL Files:**
   - [`01_create_tables_dw.sql`](./01_create_tables_dw.sql) – Defines star schema with 4 core tables
