@@ -11,3 +11,8 @@ The following project are a collection of SQL project that i have worked on to p
 ![project 1 overview](https://github.com/alhassanabubakar9990-ship-it/SQL_DATA_ENGINEER_PROJECT/blob/main/image/1_1_Project1_EDA.png?raw=true)
 
 SQL_driven analysis of data engineer job market trends using advanced quering techniques.
+
+2_WH_Mart_Build/ - Data Pipeline - Data Warehouse & Mart
+Data Pipeline Architecture End-to-end ETL pipeline transforming raw CSV files into a star schema data warehouse and analytical data marts.
+
+Skills: Dimensional modeling, ETL pipeline development, data mart architecture, production practices
